@@ -1,0 +1,5 @@
+#!/usr/bin/perl
+print "Do you want a buffet?";
+$answer = <>;
+chomp $answer;
+print "That'll be\$ 5.99" if $answer eq 'yes';
