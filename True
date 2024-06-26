@@ -1,0 +1,8 @@
+
+#!/usr/bin/perl
+$i= 0;
+%myhash = ('LastName' => 'Khadija');
+@myarray = ('LastNAme', 'FirstName');
+if ($myhash {$myarray[$i]} eq 'Khadija') {
+        print 'Your name is Khadija';
+}
